@@ -3,7 +3,7 @@
 #### A series of IPython notebooks covering Python programming techniques with a specific focus on neuroimaging
 
 Matthew Brook O'Donnell (mbod@asc.upenn.edu)   
-Ralf Schmälzle (rschmaelzle@asc.upenn.edu | schmaelz@msu.edu)   
+Ralf Schmälzle (schmaelz@msu.edu | schmaelz@msu.edu)   
 and others from the CNLab at UPenn (http://cn.asc.upenn.edu)
 
 Topics to be covered will include:
